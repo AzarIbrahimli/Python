@@ -1,10 +1,10 @@
 # Instructions
-You are going to write a program that calculates the average student height from a List of heights.
+You are going to write a program that calculates the highest score from a List of scores.
 
-e.g. student_heights = [180, 124, 165, 173, 189, 169, 146]
+e.g. student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
 # Example Input
-156 178 165 171 187
-In this case, student_heights would be a list that looks like: [156, 178, 165, 171, 187]
+78 65 89 86 55 91 64 89
+In this case, student_scores would be a list that looks like: [78, 65, 89, 86, 55, 91, 64, 89]
 
 # Example Output
-171
+The highest score in the class is: 91
